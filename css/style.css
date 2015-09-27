@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Codystar);
+
+body{
+  width:100%;
+  margin:0;
+  overflow:hidden;
+  font-family: 'Codystar', cursive;
+  font-size:1.3em;
+  letter-spacing:3px;
+}
+blockquote{
+  position:absolute;
+  color:hsla(259, 95%, 85%, .8);
+  width: 100%;
+  top:50%;
+  text-align: center;
+}
+footer{
+  font-style:italic;
+  font-size:.8em;
+}

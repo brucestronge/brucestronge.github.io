@@ -1,1 +1,0 @@
-# brucestronge.github.io
